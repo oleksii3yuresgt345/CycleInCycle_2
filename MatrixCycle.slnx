@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="MatrixCycle/MatrixCycle.vcxproj" Id="35fee16e-3f26-426e-9fcb-962e6957b894" />
+</Solution>
